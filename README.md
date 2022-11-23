@@ -1,15 +1,18 @@
-# Qr-Baileys-MD
+<p align="center"><img hight="600" width="400" alt="GIF" align="center" src="https://dl.kaskus.id/i.gyazo.com/0a621eb32bae998c60f17370c3061e8f.gif"/></p>
 
-## Join Group Diskusi
-[![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Fm6gRtvuCDN9abXVlfekAK) 
-**NO BOT**
 
-## Cara Install
+<h1 align="center">QR Baileys</h1>
 
-## TERMUX? VPS? RDP? PANEL? bisa!
+> **Note**: 
+> TERMUX? VPS? RDP? PANEL? bisa!
+
+### Silahkan Join
+[![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/I2OK9w2mkIpKngLpFs0i93) 
+
+### Cara Install
 ```
-$ git clone https://github.com/Fokusdotid/Qr-Baileys-MD.git
-$ cd Qr-Baileys-MD
+$ git clone https://github.com/eabdalmufid/QRWA
+$ cd QRWA
 $ npm i
 $ npm start
 ```
