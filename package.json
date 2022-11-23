@@ -3,13 +3,16 @@
   "version": "1.0.0",
   "description": "Get Qr Code Baileys Multi Device",
   "main": "index.js",
+  "engines": {
+    "node": "17.1.0"
+  },
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FokusDotId/Qr-Baileys-MD.git"
+    "url": "git+https://github.com/eabdalmufid/QRWA.git"
   },
   "keywords": [
     "family-md",
@@ -30,14 +33,14 @@
     "scanner",
     "wabot"
   ],
-  "author": "FokusDotId",
+  "author": "eabdalmufid",
   "license": "GPL-3.0 License",
   "bugs": {
-    "url": "https://github.com/FokusDotId/Qr-Baileys-MD/issues"
+    "url": "https://github.com/eabdalmufid/QRWA/issues"
   },
-  "homepage": "https://github.com/FokusDotId/Qr-Baileys-MD#readme",
+  "homepage": "https://github.com/eabdalmufid/QRWA#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "latest",
+    "@adiwajshing/baileys": "^4.4.0",
     "qrcode-terminal": "^0.12.0"
   }
 }
